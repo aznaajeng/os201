@@ -1,4 +1,4 @@
-## os201
+## Welcome to Github Pages
 
 You can use the [editor on GitHub](https://github.com/aznaajeng/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
