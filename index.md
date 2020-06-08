@@ -8,11 +8,6 @@ Jakarta, 10 Juli 2000
 Sistem Informasi, Fakultas Ilmu Komputer 
 
 
-
-### REACH ME
-* [REACH ME OUT](URLs/)
-
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -25,15 +20,9 @@ Sistem Informasi, Fakultas Ilmu Komputer
 
 **Bold** and _Italic_ and `Code` text
 
+### REACH ME
+* [REACH ME OUT](URLs/)
+
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aznaajeng/os201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
