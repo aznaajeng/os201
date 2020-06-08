@@ -1,19 +1,15 @@
-###             AZNA
+### AZNA
 
 Azna Ajeng Nurfaiza
 Jakarta, 10 Juli 2000
 
 Sistem Informasi, Fakultas Ilmu Komputer 
 
-ayo klik yang bawah
-* [URLs](URLs/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### REACH ME
+* [REACH ME OUT](URLs/)
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
