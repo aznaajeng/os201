@@ -1,13 +1,11 @@
 ---
 permalink: /URLs/
 ---
-Halo,
 
-### Instagram
-azna_ajeng
+### Contact Me
 
-### Twitter
-aznaaaaaaa
+* [Instagram](https://instagram.com/azna_ajeng) 
+* [LinkedIn](https://www.linkedin.com/in/azna-ajeng-915652193/)
 
 
 
