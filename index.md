@@ -1,6 +1,6 @@
 ### AZNA
 
-<img src= "https://ibb.co/BZ30hmb"><img src="https://i.ibb.co/NjCc0X5/S-26566660.jpg" width="300">
+<img src= "https://i.ibb.co/NjCc0X5/S-26566660.jpg" width="300">
 
 Azna Ajeng Nurfaiza
 
