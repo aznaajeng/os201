@@ -1,5 +1,7 @@
 ### AZNA
 
+<img src= "https://ibb.co/BZ30hmb" width="300">
+
 Azna Ajeng Nurfaiza
 Jakarta, 10 Juli 2000
 
