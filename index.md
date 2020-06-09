@@ -12,10 +12,11 @@ Sistem Informasi, Fakultas Ilmu Komputer, Universitas Indonesia
 Github page ini dibuat untuk menuntasi Ujian Akhir Semester dari mata kuliah [Sistem Operasi](URLs/) yang saya jalani pada 
 semester IV ini.
 
-*_klik sistem operasi diatas untuk mengetahui lebih lanjut mengenai sistem operasi_*
+
+*klik sistem operasi diatas untuk mengetahui lebih lanjut mengenai sistem operasi
 
 
-# more about me,
+**more about me,**
 
 * [Instagram](https://instagram.com/azna_ajeng) 
 * [LinkedIn](https://www.linkedin.com/in/azna-ajeng-915652193/)
