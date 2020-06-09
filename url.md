@@ -16,14 +16,16 @@ materi terkait mengenai sistem operasi dari Bapak Rahmat M. Samik-Ibrahim,
 #### teori lebih lanjut,
 
 **FUSE**
-- Membuat filesystem dengan FUSE sederhana : [FUSE](https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/)
+- Membuat filesystem dengan FUSE sederhana 
+  pada link berikut : [FUSE](https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/)
 
-- Tutorial : [TUTORIAL FUSE](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/running.html)
+
+- [Tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/running.html) FUSE
 
 
 
 **SOCKET** 
-- Tutorial : [SOCKET TUTORIAL](https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
+- [Tutorial](https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html) dengan SOCKET
 
 
 
