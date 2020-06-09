@@ -9,10 +9,11 @@ Jakarta, 10 Juli 2000
 Sistem Informasi, Fakultas Ilmu Komputer, Universitas Indonesia
 
 ## Tentang Github-page
-Github page ini dibuat untuk menuntasi Ujian Akhir Semester dari mata kuliah * [Sistem Operasi](URLs/) yang saya jalani pada 
+Github page ini dibuat untuk menuntasi Ujian Akhir Semester dari mata kuliah [Sistem Operasi](URLs/) yang saya jalani pada 
 semester IV ini.
 
-_klik sistem operasi diatas untuk mengetahui lebih lanjut mengenai sistem operasi_
+*_klik sistem operasi diatas untuk mengetahui lebih lanjut mengenai sistem operasi_*
+
 
 # more about me,
 
