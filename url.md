@@ -17,10 +17,8 @@ materi terkait mengenai sistem operasi dari Bapak Rahmat M. Samik-Ibrahim,
 
 **FUSE**
 - Membuat filesystem dengan FUSE sederhana pada tautan berikut,
-  - link = [FUSE](https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/)
-
-
-- [Tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/running.html) dengan FUSE
+  - [FUSE](https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/)
+  - [Tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/running.html) dengan FUSE
 
 
 
