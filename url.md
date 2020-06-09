@@ -2,10 +2,14 @@
 permalink: /URLs/
 ---
 
+## Mengenal Sistem Operasi lebih lanjut, 
+
+
 **Sistem Operasi** adalah software yang mengatur resources yang ada atau sumber daya dari hardware dan software,serta sebagai perantara untuk program komputer. Tanpa sistem operasi, user tidak dapat menjalankan program aplikasi pada komputer mereka.
 
 
 **Operating System Course Site**
+materi terkait mengenai sistem operasi dari Bapak Rahmat M. Samik-Ibrahim, 
 [Course Site](https://os.vlsm.org/)
 
 
@@ -17,16 +21,12 @@ permalink: /URLs/
 - [Week 10](https://www.youtube.com/playlist?list=PLwaskZn3rUGtRQcNL_JszJDMzD5YBp6Wz)
 
 
-**FUSE**
-- Cara membuat simple filesystem dengan FUSE : [FUSE](https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/)
 
-- Contoh Tutorial : [TUTORIAL FUSE](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/running.html)
 
-\n
-\n
-\n
-**Terimakasih, 
-OS201C Azna Ajeng Nurfaiza**
+
+
+**Terimakasih,**
+OS201C Azna Ajeng Nurfaiza
 
 
 
