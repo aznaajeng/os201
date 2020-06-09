@@ -16,6 +16,10 @@ semester IV ini.
 *klik sistem operasi diatas untuk mengetahui lebih lanjut mengenai sistem operasi
 
 
+
+
+
+
 **more about me,**
 
 * [Instagram](https://instagram.com/azna_ajeng) 
