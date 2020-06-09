@@ -1,34 +1,34 @@
-Script started on Mon 08 Jun 2020 09:13:33 PM WIB
+Script started on Tue 09 Jun 2020 08:27:46 AM WIB
 azna.ajeng@badak:~$ PS1="$ "
 $ echo $GitHubUser
 aznaajeng
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-211351-f5c2-azna.ajeng/> 
+200609-082805-eaa8-azna.ajeng/> 
 $ PS1="\$(eval \$PSTAMP)"
-200608-211355-3c7e-azna.ajeng/> echo -e $CEKSAYA
+200609-082811-5c32-azna.ajeng/> echo -e $CEKSAYA
 aznaajeng ZCZCSCRIPTSTART 200529-165328 aznaajeng 
  aznaajeng aznaajeng 200529-165416-58f2-azna.ajeng/ 200529-165416 SEQOK SUMOK 58f2e286 
  aznaajeng aznaajeng 200529-165426-12a7-azna.ajeng/ 200529-165426 SEQOK SUMOK 12a77c96 
  aznaajeng aznaajeng 200529-165430-c98e-azna.ajeng/ 200529-165430 SEQOK SUMOK c98ee0b3 
  aznaajeng aznaajeng 200529-165448-174b-azna.ajeng/ 200529-165448 SEQOK SUMOK 174bf2e8 
  aznaajeng ZCZCSCRIPTSTOP 200529-165513 SEQOK
-200608-211359-af79-azna.ajeng/> echo -e $CEKSEBELA1
+200609-082816-41f1-azna.ajeng/> echo -e $CEKSEBELA1
 aznaajeng ZCZCSCRIPTSTART 200531-224914 Belaady 
  aznaajeng Belaady 200531-225011-6adb-sinta.bela/ 200531-225011 SEQOK SUMOK 6adb5706 
  aznaajeng Belaady 200531-225034-6e0e-sinta.bela/ 200531-225034 SEQOK SUMOK 6e0e3113 
- aznaajeng Belaady Belaady 200531-225038-af7f-sinta.bela/ 200531-225038 SEQOK SUMOK af7fffea 
+ aznaajeng Belaady 200531-225038-af7f-sinta.bela/ 200531-225038 SEQOK SUMOK af7fffea 
  aznaajeng Belaady 200531-225115-6b44-sinta.bela/ 200531-225115 SEQOK SUMOK 6b44da45 
  aznaajeng ZCZCSCRIPTSTOP 200531-225130 SEQOK
-200608-211404-c9f8-azna.ajeng/> echo -e $CEKSEBELA2
+200609-082823-269a-azna.ajeng/> echo -e $CEKSEBELA2
 aznaajeng ZCZCSCRIPTSTART 200606-212812 billhsyn 
  aznaajeng billhsyn 200606-212812-9733-raden.salsabilla/ 200606-212812 SEQOK SUMOK 9733d009 
  aznaajeng billhsyn 200606-212823-3c6d-raden.salsabilla/ 200606-212823 SEQOK SUMOK 3c6df0d8 
  aznaajeng billhsyn 200606-212825-3dec-raden.salsabilla/ 200606-212825 SEQOK SUMOK 3dece21f 
  aznaajeng billhsyn 200606-212839-95d2-raden.salsabilla/ 200606-212839 SEQOK SUMOK 95d21499 
  aznaajeng ZCZCSCRIPTSTOP 200606-212908 SEQOK
-200608-211410-c93a-azna.ajeng/> exit
+200609-082827-e03d-azna.ajeng/> exit
 exit
 
-Script done on Mon 08 Jun 2020 09:14:17 PM WIB
+Script done on Tue 09 Jun 2020 08:28:32 AM WIB
