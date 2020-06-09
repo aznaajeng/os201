@@ -23,7 +23,7 @@ materi terkait mengenai sistem operasi dari Bapak Rahmat M. Samik-Ibrahim,
 
 
 **SOCKET** 
-- tutorial : [SOCKET TUTORIAL](https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
+- Tutorial : [SOCKET TUTORIAL](https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
 
 
 
