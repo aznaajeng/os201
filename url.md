@@ -13,7 +13,7 @@ materi terkait mengenai sistem operasi dari Bapak Rahmat M. Samik-Ibrahim,
 [Course Site](https://os.vlsm.org/)
 
 
-**teori lebih lanjut,**
+#### teori lebih lanjut,
 
 **FUSE**
 - Membuat filesystem dengan FUSE sederhana : [FUSE](https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/)
@@ -23,7 +23,7 @@ materi terkait mengenai sistem operasi dari Bapak Rahmat M. Samik-Ibrahim,
 
 
 **SOCKET** 
-tutorial : [SOCKET TUTORIAL](https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
+- tutorial : [SOCKET TUTORIAL](https://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
 
 
 
