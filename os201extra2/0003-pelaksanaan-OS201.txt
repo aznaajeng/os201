@@ -1,3 +1,8 @@
+Azna Ajeng / C / 1806146884 / aznaajeng
+
+Pelaksanaan OS201
+========================================================================================================================
+
 1. Buat sebuah catatan singkat pelaksanaan mata ajar OS selama semester ini.
 Pelaksanaan pembelajaran mata kuliah Operation System (OS) semester ini dilakukan dengan 2 metode, 
 yaitu diawali dengan melakukan pertemuan tatap muka seperti proses pembelajaran pada umumnya lalu, 
