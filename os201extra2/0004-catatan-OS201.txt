@@ -51,13 +51,24 @@ Kekurangan :
 - Beberapa seperti “TIME[16]”, nilai dari 16 diperoleh darimana kurang jelas, baru menjadi jelas setelah terdapat salah satu peserta ujian yang menanyakan melalui forum di scele 
 
 d. Tahap 3
-Tahap 3 merupakan pengembangan lebih lanjut dari tahap 2. 
-Kendala: 
+Kendala :
+- Hanya beberapa orang yang mengerti dan juga aktif dalam kelompok karena sudah dikelompokan berdasarkan status
+- Sulit untuk mempropagasi revisi saat diminta ke seluruh anggota kelompok. Kadang ada yang sulit dihubungi, menyerah, atau ada keperluan lainnya
+- Beberapa anggota sulit dihubungi
+- Jaringan yang kurang baik
+- Anggota kelompok kurang kooperatif dan tidak memahami materi sehingga perlu bertanya-tanya kepada kelompok lain
 
-Kelebihan: 
-Mahasiswa sudah terbiasa dengan tahap 2. Karena mirip dengan tahap 2, maka sudah familiar sehingga lebih mudah untuk mengerjakan tahap 3.
+Kelebihan :
+- Mahasiswa sudah terbiasa dengan tahap 2. Karena mirip dengan tahap 2, maka sudah familiar sehingga lebih 
+mudah untuk mengerjakan tahap 3
+- Deadline panjang untuk status T3TERM
 
-Kekurangan: 
+Kekurangan :
+- Ada bagian yang penting tapi ambigu/kurang ditekankan, seperti penamaan file dan sebagainya
+- Hanya satu file yang diedit sehingga sulit dalam pembagian tugas
+- Batas kurang jelas antara keterangan soal yang kurang jelas dengan "kreativitas masing masing" sehingga menimbulkan perdebatan
+- Kurang terlihat batasan tugas tiap anggota dalam kelompok
+- Banyak hal-hal baru yang belum dijelaskan dalam kodenya sehingga harus eksplorasi mandiri yang cukup sulit
 
 e. Tahap 4
 
