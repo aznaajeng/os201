@@ -71,6 +71,21 @@ Kekurangan :
 - Banyak hal-hal baru yang belum dijelaskan dalam kodenya sehingga harus eksplorasi mandiri yang cukup sulit
 
 e. Tahap 4
+Kendala : 
+- Ada beberapa mahasiswa yang belum cukup mengerti materi yang ditanyakan pada tahap ini
+- Adanya masalah koordinasi revisi sehingga ada perbedaan versi kode
+- File-file di folder uas-pribadi dan uas-bersama yang harus terus disesuaikan cukup membingungkan dan membuat beberapa mahasiswa harus terus-menerus cross check dengan repository cbkadal
+
+Kelebihan : 
+- Menjadi mengerti cara menggunakan synchronous semaphore
+- Tersedianya penjelasan yang mendetail dari Pak RMS mengenai tugas ini
+- Tugas relatif seru karena tantangan yang diterima
+
+Kekurangan : 
+- Hanya ada satu file yang perlu diedit sehingga pembagian tugas sulit
+- Requirement soal agak kurang dijabarkan. Di soal, dikatakan bisa menggunakan implementasi sendiri, tetapi jika implementasinya beda, nilai akan dikurangi.
+- Waktu yang diberikan tidak sebanyak tugas-tugas sebelumnya.
+- Lompatan materi yang lumayan besar dari tahap sebelumnya.
 
 f. Tahap 5
 Kendala :
