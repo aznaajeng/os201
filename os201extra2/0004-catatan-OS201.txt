@@ -141,6 +141,8 @@ GnuPG adalah suatu software yang dipakai untuk melakukan proses enkripsi data, d
 Dengan model enkripsi yang digunakan pada GPG, seseorang pasti mempunyai sepasang kunci keamanan yaitu Private Key dan Public Key. Dimana Private Key adalah kunci enkripsi yang hanya boleh diakses oleh pemilik kunci, sedangkan public key sebisa mungkin harus disebarkan seluas-luasnya.
 
 f. SHA1SUM
+SHA1SUM adalah program/perintah yang menghitung dan memverifikasi hash yang menggunakan SHA1 (Secure Hash Algorithm 1). Program ini sudah terpasang pada sebagian besar sistem operasi yang menggunakan Linux. Pada UAS OS genap 2020, file SHA1SUM digunakan sebagai berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. Melalui berkas tersebut, kita bisa mengetahui apakah file tersebut adalah file original atau bukan karena jika ada berkas yang diubah sedikitpun (termasuk waktu pembuatan), file tersebut akan menerima hash yang berbeda
+
 
 g. SHA1SUM.asc
 Format “.asc” sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
@@ -168,18 +170,38 @@ b. Problem
   Karena banyak forum dan ruang diskusi di scele terkadang peserta kebingungan untuk mencari suatu informasi pada forum. 
 
 - WhatsApp
+  Terkadang pengumuman di WhatsApp Group tertimbun oleh pesan lainnya sehingga sulit dibaca. 
+
 - pribadi/os201
+  Terkadang salah melakukan push file. 
+  
 - bersama/os201
+  Terkadang mahasiswa mengalaami race condiiton ketika melakukan push, sehingga harus melakukan pull berkali kali. 
+  
 - Tempat bekerja di luar git
+  
+
 - Youtube
-  Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS seperti pada mata kuliah OS genap 2020. 
+  Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS seperti pada mata kuliah OS genap 2020.
+  
 - Email
+
+
 - Scripting
-- Mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy and paste. 
+  Mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy and paste. 
+  
 - GNUPG
+
 - SHA1SUM dan SHA1SUM.asc
+
 - Race Condition
+  Terkadang menimbulkan masalah, ada hasil commit teman lain yang terhapus, sehingga harus benar benar melihat commit 'history' untuk memastikan teman yang commit-annya hilang melakukan push ulang. 
+
+
 - Persiapan UAS
+   a. Kesulitan dalam memahami beberapa perintah yang diberikan
+   b. Mahasiswa lupa cara membuat key dan enkripsi
+   
 - UAS Tahap 1
 - UAS Tahap 2
 - UAS Tahap 3
