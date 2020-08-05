@@ -147,25 +147,34 @@ SHA1SUM adalah program/perintah yang menghitung dan memverifikasi hash yang meng
 g. SHA1SUM.asc
 Format “.asc” sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
 
+
+
 3. Bahas dari sudut pandang peserta OS201, berkas berikut ini:
 https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 
 a. Tantangan
 Modifikasi terhadap tata cara pengumpulan hasil ujian berhasil dilakukan sehingga membuat ujian menjadi lebih sulit. Kesalahan prosedural yang dilakukan peserta menjadi salah satu kendala yang banyak dialami peserta. Hal ini menyebabkan peserta yang seharusnya dapat lolos suatu tahap menjadi berhenti di tahap tersebut walaupun diberi kesempatan mengulang tahap yang gagal. Terlalu banyak prosedural juga membuat semakin lama waktu peserta untuk mengikuti prosedural tersebut dibandingkan mengerjakan soal yang diberikan. 
 Perangkat pendukung
-Rata-rata peserta hanya mengetahui fungsi serta cara memakai Git dan Github. Untuk perangkat pendukung scripting, GNUPG, dan sha1sum peserta tidak familiar sehingga harus mempelajari terlebih dahulu. Mayoritas peserta hanya mengikuti langkah-langkah yang diberikan, namun tidak mengerti maksud dari langkah-langkah tersebut. 
+Rata-rata peserta hanya mengetahui fungsi serta cara memakai Git dan. Untuk perangkat pendukung scripting, GNUPG, dan sha1sum peserta tidak familiar sehingga harus mempelajari terlebih dahulu. Mayoritas peserta hanya mengikuti langkah-langkah yang diberikan, namun tidak mengerti maksud dari langkah-langkah tersebut. 
 
 b. Problem
 - MS Windows
   Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan sistem di badak. 
+  
 - Github	
   Pada saat melakukan push kadang bebarengan dengan orang lain sehingga harus berulang ulang melakukan push. 
 
-- Github page
+- Github 
   Terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page nampak, jadi kadang peserta kebingungan apakah memang Github page nya belom ke “load” atau salah pada code yang ditulis. 
 
 - Konsep GNUPG
-- sha1sum
+Terdapat perbedaan fungsi apabila menggunakan versi gpg yang berbeda sehingga peserta hanya mengikuti instruksi yang berikan tanpa mengerti perbedaan fungsi dari versi gpg yang digunakan. Untuk gpg2 sepertinya tidak melihat kunci pribadi yang gpg melihatnya. Misalnya, gpg2 --list-secret-keys tidak memberikan output, tetapi gpg --list-secret-keys memberikan output. Beberapa peserta mengalami kesalahan pada berkas 0000-mypub.txt, salah satunya karena peserta membuat berkas secara langsung di github dan copy paste isi berkas dari badak sehingga ada beberapa bagian yang terpotong dan tidak terbaca oleh sistem. Selain itu, beberapa peserta memiliki key lebih dari 1 key dan mencantumkan lebih dari 1 key pada berkas 0000-mypub.txt , sedangkan yang perintah hanya menginginkan 1 key dan harus key tersebut yang akan dipakai. Kesalahan lainnya yaitu terdapat secret key pada 0000-mypub.txt karena secret key hanya boleh diakses oleh pemilik kunci, sedangkan berkas perlu dibaca oleh dosen. Gpg ini dapat digunakan untuk enkripsi baik dengan atau tanpa tanda tangan, sehingga mahasiswa perlu lebih teliti membaca perintah yang diberikan untuk membedakan berkas yang perlu ditandatangani juga atau hanya enkripsi saja. Pada pelakanaan UAS OS, peserta juga mendapatkan pemahaman baru mengenai clear sign yaitu peserta dapat menandatangani berkas dalam bentuk clear text.
+
+
+- SHA1SUM dan SHA1SUM.ASC
+Sha1sum merupakan berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. sha1sum.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada. sebelum pelaksanaan UAS OS, dosen memberikan arahan untuk memahami mengenai gpg dan sha1sum, serta memberikan contoh penggunaan keduanya melalui forum diskusi SCELE. Namun, mayoritas peserta hanya mengikuti contoh tanpa memahami terlebih dahulu penggunaan gpg dan sha1sum. sha1sum dan sha1sum.asc perlu dibuat ulang setiap ada perubahan. Beberapa peserta mengalami kesalahan pada sha1sum dan sha1sum.asc karena kurang mengerti kegunaan keduanya sehingga tidak membuat ulang setiap ada perubahan. 
+
+
 - SCELE
   Karena banyak forum dan ruang diskusi di scele terkadang peserta kebingungan untuk mencari suatu informasi pada forum. 
 
@@ -176,24 +185,19 @@ b. Problem
   Terkadang salah melakukan push file. 
   
 - bersama/os201
-  Terkadang mahasiswa mengalaami race condiiton ketika melakukan push, sehingga harus melakukan pull berkali kali. 
+  Terkadang mahasiswa mengalaami race condition ketika melakukan push, sehingga harus melakukan pull berkali kali. 
   
 - Tempat bekerja di luar git
   
-
 - Youtube
   Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS seperti pada mata kuliah OS genap 2020.
   
 - Email
-
+  Penggunaan email sudah tepat untuk permasalahan penting yang bukan terkait materi pembelajaran. Penggunaan subjek [HELP] juga penting untuk menunjukkan bahwa email tersebut penting dan dapat membedakan dengan email lainnya.
 
 - Scripting
   Mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy and paste. 
   
-- GNUPG
-
-- SHA1SUM dan SHA1SUM.asc
-
 - Race Condition
   Terkadang menimbulkan masalah, ada hasil commit teman lain yang terhapus, sehingga harus benar benar melihat commit 'history' untuk memastikan teman yang commit-annya hilang melakukan push ulang. 
 
