@@ -1,5 +1,4 @@
 Azna Ajeng / C / 1806146884 / aznaajeng
-
 ====================================================================
 
 1. Buat catatan tambahan untuk pelaksanaan
@@ -188,6 +187,7 @@ Sha1sum merupakan berkas yang menyimpan hash berkas-berkas yang diupload di GitH
   Terkadang mahasiswa mengalaami race condition ketika melakukan push, sehingga harus melakukan pull berkali kali. 
   
 - Tempat bekerja di luar git
+  Tidak ada masalah.
   
 - Youtube
   Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS seperti pada mata kuliah OS genap 2020.
@@ -201,13 +201,23 @@ Sha1sum merupakan berkas yang menyimpan hash berkas-berkas yang diupload di GitH
 - Race Condition
   Terkadang menimbulkan masalah, ada hasil commit teman lain yang terhapus, sehingga harus benar benar melihat commit 'history' untuk memastikan teman yang commit-annya hilang melakukan push ulang. 
 
-
 - Persiapan UAS
    a. Kesulitan dalam memahami beberapa perintah yang diberikan
    b. Mahasiswa lupa cara membuat key dan enkripsi
    
 - UAS Tahap 1
+    Kemampuan penggunaan terminal pada linux yang kurang menghambat proses pengerjaan
+
 - UAS Tahap 2
+    Pada awal pengerjaan sangat terhambat pada implementasi mmap untuk multithreading yang tidak ada pada weekly demo
+    
 - UAS Tahap 3
+    Terdapat kesulitan saat melakukan revisi tahap-tahap sebelumnya karena kebingungan letak kesalahan nya dimana
+
 - UAS Tahap 4
+    a. Ada beberapa mahasiswa yang belum cukup mengerti materi yang ditanyakan pada tahap ini
+    b. Adanya masalah koordinasi revisi sehingga ada perbedaan versi kode
+    c. File-file di folder uas-pribadi dan uas-bersama yang harus terus disesuaikan cukup membingungkan dan membuat beberapa mahasiswa harus terus-menerus cross check dengan repository cbkadal
+
 - UAS Tahap 5
+    Terdapat kesulitan dalam memahami soal karena kurang mengerti konsep. 
