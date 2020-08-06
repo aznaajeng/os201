@@ -2,7 +2,6 @@ Azna Ajeng / C / 1806146884 / aznaajeng
 
 Pelaksanaan OS201
 ========================================================================================================================
-
 1. Buat sebuah catatan singkat pelaksanaan mata ajar OS selama semester ini.
 Pelaksanaan pembelajaran mata kuliah Operation System (OS) semester ini dilakukan dengan 2 metode, 
 yaitu diawali dengan melakukan pertemuan tatap muka seperti proses pembelajaran pada umumnya lalu, 
@@ -19,7 +18,7 @@ pada forum di scele. Dosen juga menyediakan video pembelajaran online untuk memp
 
 
 2. Bandingkan pelaksanaan pengajaran sebelum dan sesudah UTS.
-
+==============================================================================
 a) Sebelum UTS
 Pelaksanaan pengajaran dilakukan secara tatap muka di kelas
 Membuat Memo tiap minggunya yang berisi materi pengajaran pada minggu itu dan di scan
@@ -31,7 +30,7 @@ Melakukan tanya jawab lewat forum scele.
 
 
 3. Bandingkan pelaksanaan UTS OS dengan UTS lainnya.
-
+==============================================================================
 a) UTS OS
 - Soal terdiri dari isian dan esai
 - Pelaksanaan ujian berbasis kertas
@@ -51,7 +50,7 @@ b) UTS lainnya
 - Untuk pelaksanaan UTS TBA, dilakukan melalui Aren. Soal berbentuk essay. Mahasiswa melakukan scan dan mengunggahnya ke server Aren.
 
 4. Bandingkan pelaksanaan UAS OS dengan UAS lainnya.
-
+==============================================================================
 a) UAS OS
 - Dilaksanakan dalam beberapa tahap (PAS0-PAS5). Yang dimulai tanggal 8 Juni sampai 7 Juli 2020.
 - Setiap tahapnya memiliki waktu yang sangat panjang, dibandingkan dengan UAS mata kuliah lainnya
@@ -79,3 +78,17 @@ b) UAS lainnya
 - Pelaksanaan UAS Anum, tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan tiap kelompok soal terdiri atas banyak soal. Akan tetapi, tiap topik memiliki nilai maksimum sehingga tidak usah dikerjakan semuanya. Selain itu, terdapat banyak soal-soal yang belum pernah diajarkan sebelumnya sehingga mahasiswa dituntut untuk mencari solusi di Google. Waktu pengerjaan adalah 3 jam.
 - Secara umum, UAS mata kuliah lainnya hanya dilakukan dalam satu waktu pengerjaan. Sedangkan, OS dilaksanakan beberapa tahap dalam waktu yang berbeda beda.
 
+Perbandingan pelaksanaan UTS mata kuliah lain dengan UAS mata kuliah tersebut.
+==============================================================================
+Untuk mata kuliah lain selain OS, cenderung mirip pada pelaksanaan UTS dan UAS nya. Hal ini dikarenakan UTS dan UAS mata kuliah tersebut telah berbentuk online. 
+Berikut adalah perbedaan yang menurut saya tidak terlalu signifikan :
+
+- Pada pelaksanaan UTS Statprob, soal untuk setiap anak adalah sama. Tetapi, pada saat UAS terdapat beberapa versi soal dan pembagian soal kepada mahasiswa dapat 
+menggunakan digit digit pada NPM mahasiswa, sehingga tiap mahasiswa hanya sedikit yang mendapat soal yang sama. Hal ini menurut saya baik untuk mengurangi tingkat 
+kecurangan saat pelaksanaan ujian.
+
+Saran Pelaksanaan Mata Kuliah OS
+================================
+Demo, materi, dan tanya jawab dapat dilakukan dengan memanfaatkan penggunaan Zoom atau Google Meets. Salah satu contohnya mata kuliah Statistika dan Probabilitas 
+yang mengadakan zoom meeting setiap waktu perkuliahan dan melakukan perekaman video. Selain itu, mata kuliah Basis Data menggunakan Google Meets untuk mengadakan 
+sesi tanya jawab.
